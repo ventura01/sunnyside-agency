@@ -133,7 +133,7 @@ const Testimonials = (props: Props) => {
           className=" hidden md:block object-cover object-center w-full"
         />
         <Image
-          src="/mobile/image-gallery-cone.jpg"
+          src="/mobile/image-gallery-sugar-cubes.jpg"
           alt="img-gallery"
           width={120}
           height={120}
@@ -147,7 +147,7 @@ const Testimonials = (props: Props) => {
           className=" hidden md:block object-cover object-center w-full"
         />
         <Image
-          src="/mobile/image-gallery-sugarcubes.jpg"
+          src="/mobile/image-gallery-cone.jpg"
           alt="img-gallery"
           width={120}
           height={120}
